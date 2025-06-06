@@ -69,4 +69,4 @@ ISC
 
 ## Contributions
 
-Contributions and suggestions are welcomed! Please open an issue or submit a pull request if you'd like to help improve this project. 
+Contributions and suggestions are welcomed! Please open an issue or submit a pull request if you would like to help improve this project. 
