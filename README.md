@@ -1,3 +1,7 @@
+# 🚧 Project Status: In Progress
+
+This project is still in process. Features and documentation may change as development continues.
+
 # Realtime Code Editor
 
 A real-time collaborative code editor built with Yjs and WebSockets.
@@ -61,4 +65,8 @@ Connect your client to `ws://localhost:1234` for real-time collaboration.
 
 ## License
 
-ISC 
+ISC
+
+## Contributions
+
+Contributions and suggestions are welcomed! Please open an issue or submit a pull request if you'd like to help improve this project. 
