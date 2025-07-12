@@ -1,4 +1,4 @@
-# 🚧 Project Status: In Progress , will complete soon...
+# 🚧 Project Status: In Progress , will complete soon..
 
 This project is still in process. Features and documentation may change as development continues.
 
